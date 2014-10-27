@@ -1,0 +1,8 @@
+/img/figures.odg
+node_modules
+bower_components
+dist
+*.log
+.sass-cache
+.sublime-grunt.cache
+*~
